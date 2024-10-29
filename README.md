@@ -1,7 +1,3 @@
-Here’s an updated, visually appealing README structure, highlighting the most exciting features of **Genify** at the top:
-
----
-
 # 📸 **Genify – AI-Powered Prompt Sharing** 🖼️  
 [![Download Genify APK](https://img.shields.io/badge/Download-Genify-brightgreen?style=for-the-badge)](https://expo.dev/accounts/yashrajsinghtnw/projects/sora/builds/27733d0d-efb1-4adc-95ef-222e409daf14)  
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](link-to-build) [![Platforms](https://img.shields.io/badge/platforms-iOS%20|%20Android-blue?style=flat-square)]() [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
@@ -83,6 +79,3 @@ Showcase features like:
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-This arrangement gives Genify’s top features prominence, ensuring an appealing first impression, while the additional features and technical details are included in a clear, structured layout.
